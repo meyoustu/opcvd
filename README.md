@@ -1,0 +1,2 @@
+# opcvd
+OpenCV Android framework.

@@ -1,4 +1,4 @@
-# opcvd
+# ocv-android
 OpenCV Android framework
 ******
 ******
@@ -16,6 +16,6 @@ allprojects {
 ### Step 2. Add the dependency
 ``` gradle
 dependencies {
-    implementation 'com.github.meyoustu:opcvd:2020.6.16.2317'
+    implementation 'com.github.meyoustu:ocv-android:2020.6.16.2317'
 }
 ```

@@ -1,5 +1,5 @@
 # opcvd
-OpenCV Android framework.
+OpenCV Android framework
 ******
 ******
 ## To get a Git project into your build:
